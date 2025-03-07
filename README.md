@@ -7,6 +7,7 @@ The Frenzy Compass – An Affordable Travel Guide is a software that will help s
 Location-Based Recommendations : Suggest nearby places (restaurants , events, grocery).​
 Budget & Preference Filters : Allow filtering based on budget and activity type.​
 Travel Time Optimization : Use Google Maps API to recommend the shortest travel routes.
+
 ![image](https://github.com/user-attachments/assets/324375a0-0f45-49dd-b09b-ba1f2db9acd7)
 ![image](https://github.com/user-attachments/assets/cbe7325e-83c4-4f57-8ddc-f9debf5bb3c9)
 
